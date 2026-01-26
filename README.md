@@ -1,2 +1,58 @@
 # poker-butler-support
 Support Poker Butler
+
+Poker Butler – Support
+Willkommen beim Support für Poker Butler (Texas Hold’em Odds & Equity).
+Kontakt
+Wenn du Hilfe brauchst oder einen Bug melden möchtest, schreib bitte an:
+thomas.rakowski@icloud.com
+Bitte gib möglichst mit an:
+iPhone-Modell + iOS-Version
+App-Version
+kurze Beschreibung, was passiert ist (gern mit Screenshot)
+Häufige Fragen (FAQ)
+Was macht Poker Butler?
+Poker Butler berechnet für Texas Hold’em anhand deiner Handkarten, des Boards (Flop/Turn/River) und der Anzahl Gegner eine Prognose:
+Win / Tie / Lose
+daraus abgeleitet: Equity
+Optional kannst du Gegner-Ranges (z.B. Tight/Standard/Loose) verwenden und Pot Odds nutzen, um eine Call/Fold-Orientierung zu bekommen.
+
+Was bedeutet „Equity“?
+Equity ist dein erwarteter Anteil am Pot bis zum Showdown.
+Üblich: Equity = Win% + 0,5 × Tie%.
+Was bedeuten Win / Tie / Lose?
+Win: Du gewinnst am Showdown
+Tie: Pot wird geteilt (Split Pot)
+Lose: Du verlierst am Showdown
+Die drei Werte ergeben zusammen 100%.
+Was bedeutet „Break-even“?
+Break-even ist die Mindest-Equity, die du für einen Call brauchst (basierend auf Pot Odds):
+Break-even = Call / (Pot + Call)
+Wenn deine Equity darüber liegt, ist ein Call (vereinfachtes Modell) rechnerisch positiv.
+
+Was bedeuten die Prozentangaben bei Gegner-Ranges (z.B. „Tight 15%“)?
+Das ist die angenommene Starthand-Range des Gegners:
+15% = Gegner spielt ungefähr die besten 15% aller Starthände (tight)
+25% = standard
+40% = loose
+Je tighter die Range, desto stärker sind Gegnerhände im Schnitt – deine Equity kann sinken.
+Sind die angezeigten Gegnerkarten „echt“?
+Wenn die App Beispielkarten anzeigt, sind diese Samples aus der gewählten Range und nicht die tatsächlichen Karten eines Gegners. Ranges sind Annahmen zur Analyse.
+Abonnement & Käufe
+Ich habe ein Abo abgeschlossen, aber es ist nicht freigeschaltet
+Bitte prüfe:
+App komplett schließen und neu öffnen
+In der App „Käufe wiederherstellen“ / „Restore Purchases“ verwenden (falls vorhanden)
+Sicherstellen, dass du mit der gleichen Apple-ID angemeldet bist, mit der du gekauft hast
+Wenn es weiterhin nicht klappt, schreib an thomas.rakowski@icloud.com.
+
+Wie kündige ich ein Abo?
+Abos verwaltest du in iOS unter:
+Einstellungen → Apple-ID → Abonnements
+Datenschutz
+Die Privacy Policy findest du hier:
+(Link zu deiner Privacy-Policy-URL einfügen)
+Hinweise zur Nutzung
+Poker Butler ist ein Analyse- und Trainingswerkzeug. Ergebnisse basieren auf Annahmen (z.B. Gegner-Ranges) und stellen keine Garantie für den Ausgang einer Hand dar.
+
+
