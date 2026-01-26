@@ -51,7 +51,7 @@ Abos verwaltest du in iOS unter:
 Einstellungen → Apple-ID → Abonnements
 Datenschutz
 Die Privacy Policy findest du hier:
-(Link zu deiner Privacy-Policy-URL einfügen)
+[(https://doc-hosting.flycricket.io/poker-butler/8c7a975b-fe98-4efd-91c6-88ba7a0037f7/privacy)]
 Hinweise zur Nutzung
 Poker Butler ist ein Analyse- und Trainingswerkzeug. Ergebnisse basieren auf Annahmen (z.B. Gegner-Ranges) und stellen keine Garantie für den Ausgang einer Hand dar.
 
